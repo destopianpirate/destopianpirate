@@ -32,18 +32,25 @@ My academic repository for AI and Machine Learning research at IIT Gandhinagar.
 A collection of diverse web development projects and components.
 *   **Includes:** Weather App, Login Pages, Portfolio Designs, and various UI experiments.
 
-### 6. ⌨️ [Micropad](https://github.com/destopianpirate/micropad)
-**Stack:** KiCad, Hardware Design
-A custom PCB design project for a mechanical macro keypad.
-*   **Details:** Schematics and board layout for a programmable input device.
+
+---
+
+## 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=destopianpirate&show_icons=true&theme=radical&count_private=true" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=destopianpirate&layout=compact&theme=radical" height="150" alt="Top Languages" />
+</div>
 
 ---
 
 ## 🛠️ Skills & Technologies
 *   **AI/ML:** Python, TensorFlow, Gemini API, OpenAI API
 *   **Web:** React.js, Vite, Flask, HTML5, CSS3
-*   **Tools:** Git, Docker, KiCad (PCB Design)
+*   **Tools:** Git, Docker
 
 ---
 
-*📫 Reach me at: [Your Email / LinkedIn]*
+## 📫 Connect with Me
+*   **Instagram:** [@ayushxphoenix](https://www.instagram.com/ayushxphoenix?igsh=MWt1azF2Y2ljZDF4aw==)
+*   **LinkedIn:** [Ayush Singh](https://www.linkedin.com/in/ayushxphoenix?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+
