@@ -1,6 +1,6 @@
 # Hi there, I'm Ayush Singh! 👋
 
-### 🎓 B.Tech @ IIT Gandhinagar |  AI Principal
+### 🎓 B.Tech @ IIT Gandhinagar |  AI 
 
 I'm a passionate developer and AI enthusiast exploring the intersection of Artificial Intelligence, Web Development, and Hardware Design. My work ranges from building advanced AI educational tools to designing custom PCBs.
 
@@ -50,9 +50,9 @@ A collection of diverse web development projects and components.
 ##  GitHub Stats
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=destopianpirate&show_icons=true&theme=radical&count_private=true&include_all_commits=true" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api?username=destopianpirate&show_icons=true&theme=radical&count_private=true&include_all_commits=true&cache_seconds=0" height="160"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=destopianpirate&theme=radical" height="160"/>
+<img src="https://streak-stats.demolab.com?user=destopianpirate&theme=radical&hide_border=false&cache_seconds=0" height="160"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=destopianpirate&layout=compact&theme=radical" height="160"/>
 
