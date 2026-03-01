@@ -17,17 +17,30 @@ A powerful AI-driven educational tool that solves assignments from PDF, Word, an
 **Stack:** React, Vite
 An advanced AI content analysis tool designed to detect and analyze machine-generated text. (In Development)
 
-### 3.  [Image Compressor](https://github.com/destopianpirate/image-compressor)
+### 3.  [RoadGuard](https://github.com/destopianpirate/roadguard) 
+**Stack:** YOLOv8, Raspberry Pi 4, Python, Google Maps API, GPS  
+
+An AI-powered real-time pothole detection and smart road monitoring system built for Edge AI deployment.
+
+**Key Features:**
+-  Real-time pothole detection using YOLOv8  
+-  GPS-based location tagging  
+-  Auto-marking potholes on Google Maps  
+-  Buzzer alert system for drivers  
+-  Designed for IoT + Hardware integration  
+
+
+### 4.  [Image Compressor](https://github.com/destopianpirate/image-compressor)
 **Stack:** Python, Flask, Pillow, HTML/CSS
 A lightweight, web-based image compression utility.
 *   **Key Features:** Compresses images while maintaining quality, supports JPG/PNG/WEBP conversion.
 
-### 4.  [IITGN.AI](https://github.com/destopianpirate/IITGN.AI)
+### 5.  [IITGN.AI](https://github.com/destopianpirate/IITGN.AI)
 **Stack:** Python, Jupyter Notebooks
 My academic repository for AI and Machine Learning research at IIT Gandhinagar.
 *   **Contents:** Machine Learning assignments, NewEra.ai research projects, and semester coursework.
 
-### 5.  [WebStack](https://github.com/destopianpirate/WebStack)
+### 6.  [WebStack](https://github.com/destopianpirate/WebStack)
 **Stack:** HTML, CSS, JavaScript, React
 A collection of diverse web development projects and components.
 *   **Includes:** Weather App, Login Pages, Portfolio Designs, and various UI experiments.
@@ -36,16 +49,21 @@ A collection of diverse web development projects and components.
 
 ##  GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=destopianpirate&show_icons=true&theme=radical&count_private=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=destopianpirate&layout=compact&theme=radical" height="150" alt="Top Languages" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=destopianpirate&show_icons=true&theme=radical&count_private=true&include_all_commits=true" height="160"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=destopianpirate&theme=radical" height="160"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=destopianpirate&layout=compact&theme=radical" height="160"/>
+
 </div>
 
 ---
 
-## 🛠️ Skills & Technologies
-*   **AI/ML:** Python, TensorFlow, Gemini API, OpenAI API
+##  Skills & Technologies
+*   **AI/ML:** Python, TensorFlow, Gemini API, OpenAI API, Google Cloud API
 *   **Web:** React.js, Vite, Flask, HTML5, CSS3
-*   **Tools:** Git
+*   **Tools:** Git, Raspberry
 
 ---
 
