@@ -48,15 +48,19 @@ A collection of diverse web development projects and components.
 ---
 
 ##  GitHub Stats
-<div align="center">
+# 📊 GitHub Statistics
 
-<img src="https://github-readme-stats.vercel.app/api?username=destopianpirate&show_icons=true&theme=radical&count_private=true&include_all_commits=true&cache_seconds=0" height="160"/>
+## Overall Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=destopianpirate&show_icons=true&include_all_commits=true&count_private=true&theme=dark)
 
-<img src="https://streak-stats.demolab.com?user=destopianpirate&theme=radical&hide_border=false&cache_seconds=0" height="160"/>
+## Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=destopianpirate&layout=compact&count_private=true&theme=dark)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=destopianpirate&layout=compact&theme=radical" height="160"/>
+## GitHub Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=destopianpirate&theme=dark)
 
-</div>
+## Contributions
+![GitHub Contribution](https://github-readme-activity-graph.vercel.app/graph?username=destopianpirate&theme=dark)
 
 ---
 
