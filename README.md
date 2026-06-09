@@ -1,7 +1,5 @@
 # Hi there, I'm Ayush Singh! 👋
 
-# Hi there, I'm Ayush Singh! 👋
-
 ### 🎓 B.Tech @ IIT Gandhinagar | Artificial Intelligence & Full-Stack Development
 
 I design and engineer intelligent applications at the intersection of AI, Edge Computing, and Full-Stack Web Development. With a foundation from IIT Gandhinagar, my work focuses on translating complex neural networks and sensor telemetry into beautiful, responsive, and production-ready digital interfaces.
