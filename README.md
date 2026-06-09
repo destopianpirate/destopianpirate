@@ -1,7 +1,13 @@
 # Hi there, I'm Ayush Singh! 👋
-### 🎓 B.Tech @ IIT Gandhinagar |  AI 
-I'm a passionate developer and AI enthusiast exploring the intersection of Artificial Intelligence, Web Development, and Hardware Design. My work ranges from building advanced AI educational tools to designing custom PCBs.
----
+
+# Hi there, I'm Ayush Singh! 👋
+
+### 🎓 B.Tech @ IIT Gandhinagar | Artificial Intelligence & Full-Stack Development
+
+I design and engineer intelligent applications at the intersection of AI, Edge Computing, and Full-Stack Web Development. With a foundation from IIT Gandhinagar, my work focuses on translating complex neural networks and sensor telemetry into beautiful, responsive, and production-ready digital interfaces.
+
+**Let's build something intelligent.**
+
 ##  Featured Repositories
 ### 1.  [AcadX (student_portal)](https://github.com/destopianpirate/student_portal)
 **Stack:** React, Vite, Framer Motion, Custom CSS
