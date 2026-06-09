@@ -42,7 +42,7 @@ My academic repository for AI and Machine Learning research at IIT Gandhinagar.
   <img src="https://streak-stats.demolab.com/?user=destopianpirate&theme=monokai&hide_border=true&cache_seconds=86400" alt="destopianpirate's GitHub Streak" width="49%" />
 </p>
 <p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=destopianpirate&theme=monokai&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="'s GitHub Trophies" />
+  
 </p>
 <p align="center">
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=destopianpirate&theme=monokai&radius=10" alt="destopianpirate's Activity Graph" />
@@ -128,4 +128,3 @@ My academic repository for AI and Machine Learning research at IIT Gandhinagar.
   <img alt="Breakout Game" src="https://raw.githubusercontent.com/cyprieng/github-breakout/main/example/light.svg" />
 </picture>
 
-<p align="center"><a href="https://www.buymeacoffee.com/chamidudili" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
