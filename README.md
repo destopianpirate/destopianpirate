@@ -121,7 +121,7 @@ My academic repository for AI and Machine Learning research at IIT Gandhinagar.
   <a href="mailto:ayushspna4040@gmail.com">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
   </a>&nbsp;&nbsp;
-  <a href="[destopianpirate.github.io](https://destopianpirate.github.io/)">
+  <a href="https://destopianpirate.github.io/">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" alt="Website" width="40" />
   </a>
 </p>
