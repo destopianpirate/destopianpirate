@@ -1,6 +1,6 @@
-# Hi there, I'm Ayush Singh! 👋
+# Hi there, I'm Ayush Singh! 
 
-### 🎓 B.Tech @ IIT Gandhinagar | Artificial Intelligence & Full-Stack Development
+###  B.Tech @ IIT Gandhinagar | Artificial Intelligence & Full-Stack Development
 
 I design and engineer intelligent applications at the intersection of AI, Edge Computing, and Full-Stack Web Development. With a foundation from IIT Gandhinagar, my work focuses on translating complex neural networks and sensor telemetry into beautiful, responsive, and production-ready digital interfaces.
 
@@ -61,7 +61,6 @@ My academic repository for AI and Machine Learning research at IIT Gandhinagar.
 <h3 align="center">Programming Languages</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" />&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" />
 
@@ -80,16 +79,9 @@ My academic repository for AI and Machine Learning research at IIT Gandhinagar.
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" />&nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" />&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-ar21.svg" alt="Flask" width="40" />
-
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" />;
 </p>
 
-<h3 align="center">Database</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" />&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" />
-
-</p>
 
 <h3 align="center">DevOps & Cloud</h3>
 <p align="center">
@@ -113,7 +105,7 @@ My academic repository for AI and Machine Learning research at IIT Gandhinagar.
   </a>
 </p>
 
-## 🔗 Connect with Me
+##  Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/ayushxphoenix/">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
