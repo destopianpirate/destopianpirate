@@ -7,7 +7,7 @@ I design and engineer intelligent applications at the intersection of AI, Edge C
 **Let's build something intelligent.**
 
 ##  Featured Repositories
-### 1.  [AcadX (student_portal)](https://github.com/destopianpirate/student_portal)
+### 1.  [AcadX (student_portal)](https://iitgn.vercel.app/)
 **Stack:** React, Vite, Framer Motion, Custom CSS
 A sleek, glassmorphic academic planner and student workspace to manage university life.
 *   **Key Features:** Synced timetables, holidays registry, course conflict detection, GPA/attendance trackers, and an integrated Gemini AI study companion.
