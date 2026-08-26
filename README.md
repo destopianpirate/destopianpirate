@@ -1,18 +1,15 @@
-# Hi there, I'm Ayush Singh! 
+<img src="./..png" align="right" width="300">
 
-###  B.Tech @ IIT Gandhinagar | Artificial Intelligence & Full-Stack Development
+# Hi there, I'm Ayush Singh!
+
+### B.Tech @ IIT Gandhinagar | Artificial Intelligence & Full-Stack Development
 
 I design and engineer intelligent applications at the intersection of AI, Edge Computing, and Full-Stack Web Development. With a foundation from IIT Gandhinagar, my work focuses on translating complex neural networks and sensor telemetry into beautiful, responsive, and production-ready digital interfaces.
 
 **Let's build something intelligent.**
-</td>
-<td width="35%" align="center" valign="middle">
 
-<img src="./..png" width="300">
+<br clear="right">
 
-</td>
-</tr>
-</table>
 ##  Featured Repositories
 ### 1.  [AcadX (student_portal)](https://iitgn.vercel.app/)
  Synced timetables, holidays registry, course conflict detection, GPA/attendance trackers, and an integrated Gemini AI study companion.
@@ -119,6 +116,3 @@ A lightweight, web-based image compression utility.Compresses images while maint
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" alt="Website" width="40" />
   </a>
 </p>
-
-
-
