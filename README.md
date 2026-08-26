@@ -8,37 +8,32 @@ I design and engineer intelligent applications at the intersection of AI, Edge C
 
 ##  Featured Repositories
 ### 1.  [AcadX (student_portal)](https://iitgn.vercel.app/)
-**Stack:** React, Vite, Framer Motion, Custom CSS
-A sleek, glassmorphic academic planner and student workspace to manage university life.
-*   **Key Features:** Synced timetables, holidays registry, course conflict detection, GPA/attendance trackers, and an integrated Gemini AI study companion.
+ Synced timetables, holidays registry, course conflict detection, GPA/attendance trackers, and an integrated Gemini AI study companion.
 ### 2.  [AssignmentAI](https://github.com/destopianpirate/ai-assignment)
-**Stack:** React, Gemini AI, Python, Vite
 A powerful AI-driven educational tool that solves assignments from PDF, Word, and Notebook files.
 *   **Key Features:** Vision-capable solving, client-side PDF export, detailed step-by-step math solutions, and an interactive AI tutor chat.
-### 3.  [IoT Dashboard](https://github.com/destopianpirate/iot-dashboard)
-**Stack:** React, Vite, Tailwind CSS, WebSockets/MQTT, Chart.js
-A modern, interactive web dashboard to monitor and manage IoT sensor networks and connected devices in real-time.
-*   **Key Features:** Real-time data streams and telemetry visualization, interactive widgets (dials, live graphs, controls), alerts management, and device health tracking.
-### 4.  [ZeroGPTi](https://github.com/destopianpirate/zero-gpti)
-**Stack:** React, Vite
-An advanced AI content analysis tool designed to detect and analyze machine-generated text. (In Development)
-### 5.  [RoadGuard](https://github.com/destopianpirate/roadguard) 
-**Stack:** YOLOv8, Raspberry Pi 4, Python, Google Maps API, GPS  
+### 3. OctropsCode 
+A VS Code extension that integrates multiple APIs to autonomously write and manage code across files like creating, updating, deleting files, and running terminal commands.
+### 4.  [Quizzing Society](https://qsiitgn.vercel.app/)
+### 5. CloudForge (A Baas Service) --> currently working on..
+platform that provides scalable backend infrastructure and APIs to help developers quickly build, deploy, and manage applications( Authentication, Storage, Database, Email Service)
+### 6.  [RoadGuard](https://github.com/destopianpirate/roadguard) 
+ YOLOv8, Raspberry Pi 4, Python, Google Maps API, GPS  
 An AI-powered real-time pothole detection and smart road monitoring system built for Edge AI deployment.
 **Key Features:**
 -  Real-time pothole detection using YOLOv8  
 -  GPS-based location tagging  
 -  Auto-marking potholes on Google Maps  
 -  Buzzer alert system for drivers  
--  Designed for IoT + Hardware integration  
-### 6.  [Image Compressor](https://github.com/destopianpirate/image-compressor)
-**Stack:** Python, Flask, Pillow, HTML/CSS
-A lightweight, web-based image compression utility.
-*   **Key Features:** Compresses images while maintaining quality, supports JPG/PNG/WEBP conversion.
-### 7.  [IITGN.AI](https://github.com/destopianpirate/IITGN.AI)
-**Stack:** Python, Jupyter Notebooks
-My academic repository for AI and Machine Learning research at IIT Gandhinagar.
-*   **Contents:** Machine Learning assignments, NewEra.ai research projects, and semester coursework.
+-  Designed for IoT + Hardware integration 
+### 7.  [IoT Dashboard](https://github.com/destopianpirate/iot-dashboard)
+A modern, interactive web dashboard to monitor and manage IoT sensor networks and connected devices in real-time.
+*   **Key Features:** Real-time data streams and telemetry visualization, interactive widgets (dials, live graphs, controls), alerts management, and device health tracking.
+### 8.  [ZeroGPTi](https://github.com/destopianpirate/zero-gpti)
+An advanced AI content analysis tool designed to detect and analyze machine-generated text. (In Development) 
+### 9.  [Image Compressor](https://github.com/destopianpirate/image-compressor)
+A lightweight, web-based image compression utility.Compresses images while maintaining quality, supports JPG/PNG/WEBP conversion.
+
 
 ---
 ## 📊 GitHub Stats & Trophies
