@@ -5,7 +5,14 @@
 I design and engineer intelligent applications at the intersection of AI, Edge Computing, and Full-Stack Web Development. With a foundation from IIT Gandhinagar, my work focuses on translating complex neural networks and sensor telemetry into beautiful, responsive, and production-ready digital interfaces.
 
 **Let's build something intelligent.**
+</td>
+<td width="35%" align="center" valign="middle">
 
+<img src="./..png" width="300">
+
+</td>
+</tr>
+</table>
 ##  Featured Repositories
 ### 1.  [AcadX (student_portal)](https://iitgn.vercel.app/)
  Synced timetables, holidays registry, course conflict detection, GPA/attendance trackers, and an integrated Gemini AI study companion.
