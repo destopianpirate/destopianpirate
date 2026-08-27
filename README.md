@@ -39,20 +39,6 @@ An advanced AI content analysis tool designed to detect and analyze machine-gene
 A lightweight, web-based image compression utility.Compresses images while maintaining quality, supports JPG/PNG/WEBP conversion.
 
 
----
-## 📊 GitHub Stats & Trophies
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=destopianpirate&theme=monokai&hide_border=true&cache_seconds=86400" alt="destopianpirate's GitHub Streak" width="49%" />
-</p>
-<p align="center">
-  
-</p>
-<p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=destopianpirate&theme=monokai&radius=10" alt="destopianpirate's Activity Graph" />
-</p>
-<p align="center">
-  <img src="/3d-city.gif" alt="3D City View Preview" width="100%" />
-</p>
 
 
 ## 🛠️ Languages & Tools
@@ -78,7 +64,7 @@ A lightweight, web-based image compression utility.Compresses images while maint
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" />&nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" />&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" />;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" />
 </p>
 
 
