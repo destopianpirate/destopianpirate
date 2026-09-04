@@ -1,6 +1,6 @@
 <a href="https://destopianpirate.github.io/"><img src="./..png" align="right" width="300"></a>
 
-# Hi there, [I'm Ayush Singh]([https://iitgn.vercel.app/](https://destopianpirate.github.io/))!  
+# Hi there, [I'm Ayush Singh](https://destopianpirate.github.io/)!  
 
 ### B.Tech @ IIT Gandhinagar | Artificial Intelligence & Full-Stack Development
 
