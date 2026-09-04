@@ -16,12 +16,12 @@ I design and engineer intelligent applications at the intersection of AI, Edge C
 ### 2.  [AssignmentAI](https://github.com/destopianpirate/ai-assignment)
 A powerful AI-driven educational tool that solves assignments from PDF, Word, and Notebook files.
 *   **Key Features:** Vision-capable solving, client-side PDF export, detailed step-by-step math solutions, and an interactive AI tutor chat.
-### 3. OctropsCode 
+### 3. [OctropsCode](https://octrops.vercel.app/)
 A VS Code extension that integrates multiple APIs to autonomously write and manage code across files like creating, updating, deleting files, and running terminal commands.
 ### 4.  [Quizzing Society](https://qsiitgn.vercel.app/)
 ### 5. CloudForge (A Baas Service) --> currently working on..
 platform that provides scalable backend infrastructure and APIs to help developers quickly build, deploy, and manage applications( Authentication, Storage, Database, Email Service)
-### 6.  [RoadGuard](https://github.com/destopianpirate/roadguard) 
+### 6.  RoadGuard
  YOLOv8, Raspberry Pi 4, Python, Google Maps API, GPS  
 An AI-powered real-time pothole detection and smart road monitoring system built for Edge AI deployment.
 **Key Features:**
@@ -30,12 +30,12 @@ An AI-powered real-time pothole detection and smart road monitoring system built
 -  Auto-marking potholes on Google Maps  
 -  Buzzer alert system for drivers  
 -  Designed for IoT + Hardware integration 
-### 7.  [IoT Dashboard](https://github.com/destopianpirate/iot-dashboard)
+### 7.  IoT Dashboard
 A modern, interactive web dashboard to monitor and manage IoT sensor networks and connected devices in real-time.
 *   **Key Features:** Real-time data streams and telemetry visualization, interactive widgets (dials, live graphs, controls), alerts management, and device health tracking.
-### 8.  [ZeroGPTi](https://github.com/destopianpirate/zero-gpti)
+### 8.  ZeroGPTi
 An advanced AI content analysis tool designed to detect and analyze machine-generated text. (In Development) 
-### 9.  [Image Compressor](https://github.com/destopianpirate/image-compressor)
+### 9.  Image Compressor
 A lightweight, web-based image compression utility.Compresses images while maintaining quality, supports JPG/PNG/WEBP conversion.
 
 
