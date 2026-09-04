@@ -1,4 +1,4 @@
-<img src="./..png" align="right" width="300">
+<a href="https://destopianpirate.github.io/"><img src="./..png" align="right" width="300"></a>
 
 # Hi there, [I'm Ayush Singh]([https://iitgn.vercel.app/](https://destopianpirate.github.io/))!  
 
