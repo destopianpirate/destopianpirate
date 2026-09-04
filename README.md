@@ -1,6 +1,6 @@
 <img src="./..png" align="right" width="300">
 
-# Hi there, I'm Ayush Singh!
+# Hi there, [I'm Ayush Singh]([https://iitgn.vercel.app/](https://destopianpirate.github.io/))!  
 
 ### B.Tech @ IIT Gandhinagar | Artificial Intelligence & Full-Stack Development
 
