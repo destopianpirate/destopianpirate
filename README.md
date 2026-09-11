@@ -7,7 +7,11 @@
 I design and engineer intelligent applications at the intersection of AI, Edge Computing, and Full-Stack Web Development. With a foundation from IIT Gandhinagar, my work focuses on translating complex neural networks and sensor telemetry into beautiful, responsive, and production-ready digital interfaces.
 
 **Let's build something intelligent.**
-
+<br>
+<img src="https://komarev.com/ghpvc/?username=destopianpirate&style=flat-square&color=6E40C9" alt="Profile Views" />
+<a href="https://www.linkedin.com/in/ayushxphoenix"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:ayushspna4040@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+<img src="https://img.shields.io/badge/Open%20to%20Work-2ea44f?style=flat-square" />
 <br clear="right">
 
 ##  Featured Repositories
